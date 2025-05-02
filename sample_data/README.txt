@@ -1,0 +1,1 @@
+This folder should contain a sample CCTV video named 'test_video.mp4' for testing purposes.
