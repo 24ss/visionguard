@@ -13,6 +13,9 @@ Tech Stack: Python,OpenCV,YOLOv8,Flask
 
 How to Setup :
 git clone https://github.com/24ss/VisionGuard.git
+
 cd VisionGuard
+
 pip install -r requirements.txt
+
 python app.py
