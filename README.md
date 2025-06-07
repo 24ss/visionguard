@@ -10,3 +10,9 @@ Features:
 Tech Stack: Python,OpenCV,YOLOv8,Flask
 
 ![vg](https://github.com/user-attachments/assets/d8326937-726f-457c-86a0-ff23723d3e07)
+
+How to Setup :
+git clone https://github.com/24ss/VisionGuard.git
+cd VisionGuard
+pip install -r requirements.txt
+python app.py
